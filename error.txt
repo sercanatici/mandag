@@ -2,4 +2,5 @@
 hva såå virker det nu?
 Så prøver vi lige igen.
 virker?
+ja 
 Så starter vi på branch
